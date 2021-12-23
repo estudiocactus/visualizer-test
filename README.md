@@ -11,7 +11,7 @@ This is a test to validate the knowledge of the candidates for the position of f
 
 ## Description
 
-In this case the test consists of creating a 3d room configurator. In the following link you can see an example of a configurator that we built for Porcelanosa.
+In this case the test consists of creating a 3d room configurator. In the following link you can see an example of a configurator that we built.
 
 Following you have a detailed layout of the data needed to pass the test:
 
