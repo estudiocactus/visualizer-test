@@ -15,7 +15,7 @@ In this case the test consists of creating a 3d room configurator. In the follow
 
 Following you have a detailed layout of the data needed to pass the test:
 
-Base image url: https://firebasestorage.googleapis.com/v0/b/porcelanosa-partners-spaces.appspot.com/o/projects%2FdorptVQTHsbkYC60NSlt%2Fscenes%2F1567170849457-base?alt=media&token=cf8bcee2-bf89-4fd9-8bfd-9d4462348844
+Base image url: https://firebasestorage.googleapis.com/v0/b/visualizer-new-devs-test.appspot.com/o/base.jpeg?alt=media&token=358ccdea-3cf9-4751-ae48-4631e4700554
 
 Coordinates of the points over the base image:
 
