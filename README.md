@@ -25,7 +25,7 @@ Coordinates of the points over the base image:
     └── points
 ```
 
-List of all materials (TIP: You have to think about the right query to get all the materials for a specific point -> Firestore allows **array-contains **queries)
+List of all materials (TIP: You have to think about the right query to get all the materials for a specific point -> Firestore allows array-contains queries)
 
 ```
 .
