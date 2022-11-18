@@ -31,7 +31,6 @@ List of materials
 .
 └── firestore(/)
     └── materials
-        └──{pointId}
 ```
 
 The credentials file for firebase is located at
