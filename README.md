@@ -50,10 +50,6 @@ The page should be created in the following file, the initial styles and typogra
     └── index.js
 ```
 
-The functionality should be the following
-
-https://app.estudiocactus.com/configurador.mp4
-
 ## Requirements
 
 1. Use StandardJS as a linter
