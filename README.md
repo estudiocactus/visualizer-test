@@ -25,7 +25,7 @@ Coordinates of the points over the base image:
     └── points
 ```
 
-List of materials
+List of all materials (you have to think about the right query to get all the materials for a specific point)
 
 ```
 .
