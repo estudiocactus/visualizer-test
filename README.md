@@ -11,18 +11,18 @@ This is a test to validate the knowledge of the candidates for the position of f
 
 ## Description
 
-In this case the test consists of creating a 3d room configurator. In the following link you can see an example of a configurator that we built: https://app.estudiocactus.com/visualizer.mp4
+In this case the test consists of creating a 3d room configurator. In the following link you can see an example of how the configurator should look like: https://app.estudiocactus.com/visualizer.mp4
 
 Following you have a detailed layout of the data needed to pass the test:
 
 Base image url: https://firebasestorage.googleapis.com/v0/b/visualizer-new-devs-test.appspot.com/o/base.jpeg?alt=media&token=358ccdea-3cf9-4751-ae48-4631e4700554
 
-Coordinates of the points over the base image:
+Coordinates to draw the points over the base image:
 
 ```
 .
 └── firestore(/)
-    └── points
+    └── points (collection)
 ```
 
 List of all materials (TIP: You have to think about the right query to get all the materials for a specific point -> Firestore allows array-contains queries)
@@ -30,10 +30,10 @@ List of all materials (TIP: You have to think about the right query to get all t
 ```
 .
 └── firestore(/)
-    └── materials
+    └── materials (collection)
 ```
 
-The credentials file for firebase is located at
+The credentials for the Firebase connection are located at
 
 ```
 .
@@ -48,7 +48,7 @@ The credentials file for firebase is located at
 
 ## How to start?
 
-1. Create a new repo utilizing this one as a base(without forking)
+1. Create a new repo using this one as a base(without forking)
 2. Make at least 1 first commit with the original code, to see the init hour.
 3. Make individiual commits for each block you create. The last commit marks the end.
 4. Send us a link to your repo.
