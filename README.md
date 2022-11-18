@@ -41,14 +41,6 @@ The credentials file for firebase is located at
     └── config
 ```
 
-The page should be created in the following file, the initial styles and typography(/styles/global.css) are already set:
-
-```
-.
-└── pages
-    └── index.js
-```
-
 ## Requirements
 
 1. Use StandardJS as a linter
