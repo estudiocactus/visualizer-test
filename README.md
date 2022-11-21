@@ -46,6 +46,8 @@ The credentials for the Firebase connection are located at
 1. Use StandardJS as a linter
 2. Code should be completely in english ( filenames, variables)
 
+**IMPORTANT:** We won't accept code with harcoded databaes values (e.g. document id's to make comparisons, url's for background images etc)
+
 ## How to start?
 
 1. Create a new repo using this one as a base(without forking)
