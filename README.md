@@ -48,7 +48,7 @@ The credentials for the Firebase connection:
 
 ## Requirements
 
-1. Use ESlint, Prettier and StandardJS as linter
+1. Use ESlint and Prettier
 2. Use TypeScript
 3. Code should be completely in english ( filenames, variables)
 
@@ -67,7 +67,7 @@ The credentials for the Firebase connection:
 
 - Simplicity of the solution
 - Organization and clean code
-- Decisiones about client/server rendering
+- Decisions about client/server rendering
 - Cache management
 - Mobile first & RWD
 - Git usage
