@@ -1,6 +1,6 @@
 # Estudio Cactus Fullstack Test
 
-This is a test to validate the knowledge of the candidates for the position of fullstack developer at Estudio Cactus
+This is a test to validate the knowledge of the candidates for the position of developer at Estudio Cactus
 
 ## Stack
 
@@ -33,24 +33,30 @@ List of all materials (TIP: You have to think about the right query to get all t
     └── materials (collection)
 ```
 
-The credentials for the Firebase connection are located at
+The credentials for the Firebase connection:
 
 ```
-.
-└── firebase
-    └── config
+{
+  apiKey: 'AIzaSyC_JwpXS4uj9sRRDrbFAtalE1QulNTmKnw',
+  authDomain: 'visualizer-new-devs-test.firebaseapp.com',
+  projectId: 'visualizer-new-devs-test',
+  storageBucket: 'visualizer-new-devs-test.appspot.com',
+  messagingSenderId: '702664185241',
+  appId: '1:702664185241:web:580752c50d570d0c89ef08'
+}
 ```
 
 ## Requirements
 
-1. Use StandardJS as a linter
-2. Code should be completely in english ( filenames, variables)
+1. Use ESlint, Prettier and StandardJS as linter
+2. Use TypeScript
+3. Code should be completely in english ( filenames, variables)
 
 **IMPORTANT:** We won't accept code with harcoded databaes values (e.g. document id's to make comparisons, url's for background images etc)
 
 ## How to start?
 
-1. Create a new repo using this one as a base(without forking)
+1. Create a new Next.js project
 2. Make at least 1 first commit with the original code, to see the init hour.
 3. Make individiual commits for each block you create. The last commit marks the end.
 4. Send us a link to your repo.
@@ -61,7 +67,8 @@ The credentials for the Firebase connection are located at
 
 - Simplicity of the solution
 - Organization and clean code
-- Utilization of components
+- Decisiones about client/server rendering
+- Cache management
 - Mobile first & RWD
 - Git usage
 - Web Performance Optimization
